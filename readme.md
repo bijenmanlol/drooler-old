@@ -1,5 +1,4 @@
-Drooler - https://drooler.tk
-____________________________
+# Drooler - https://drooler.tk
 
 Desc:
 Website for socials and other contact information
