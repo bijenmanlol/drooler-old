@@ -1,11 +1,11 @@
 # Drooler - https://drooler.tk
 
-Desc:
+## Desc:
 
 Website for socials and other contact information
 
 
-Services used:
+## Services used:
 
 
 Cloudflare (https://cloudflare.com) - protection and email doimains
@@ -15,7 +15,7 @@ Freenom (https://freenom.com) - website domain
 Replit (https://replit.com) - hosting, IDE
 
 
-Licensing status:
+## Licensing status:
 
 
 Name (Drooler) - unlicensed
