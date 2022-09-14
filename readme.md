@@ -16,16 +16,10 @@ Website for socials and other contact information
 -Replit (https://replit.com) - hosting, IDE
 
 
-### Licensing status:
+### Licensing:
 
 
--Name (Drooler) - licensed
-
--Code (website) - unlicensed
-
--Images (profile picture) - unlicensed
-
--Images (icons) - free-to-use assets
+This product is officially licensed under a MIT license, for more info read [license](https://github.com/bijenmanlol/drooler/license).
 
 
-**Currently no rights reserved**
+**All rights reserved**
