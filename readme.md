@@ -20,7 +20,7 @@ Website for socials and other contact information
 
 ### Code (open source):
 
-View the open source code here (https://github.com/bijenmanlol/drooler)
+View the open source code here https://github.com/bijenmanlol/drooler
 
 
 ### Licensing:
