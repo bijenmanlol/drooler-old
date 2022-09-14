@@ -19,7 +19,7 @@ Website for socials and other contact information
 ### Licensing:
 
 
-This product is officially licensed under a MIT license, for more info read [license](https://github.com/bijenmanlol/drooler/license).
+This product is officially licensed under a MIT license, for more info read [license](https://github.com/bijenmanlol/drooler/blob/main/license).
 
 
 **All rights reserved**
