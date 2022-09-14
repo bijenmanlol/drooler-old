@@ -19,7 +19,7 @@ Website for socials and other contact information
 ### Licensing status:
 
 
--Name (Drooler) - unlicensed
+-Name (Drooler) - licensed
 
 -Code (website) - unlicensed
 
