@@ -15,6 +15,8 @@ Website for socials and other contact information
 
 -Replit (https://replit.com) - hosting, IDE
 
+-Github (https://github.com) - code storage
+
 
 ### Licensing:
 
