@@ -25,7 +25,6 @@ View the open source code here https://github.com/bijenmanlol/drooler
 
 ### Licensing:
 
-
 This product is officially licensed under a MIT license, for more info read [license](https://github.com/bijenmanlol/drooler/blob/main/license).
 
 &nbsp;
