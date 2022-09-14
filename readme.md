@@ -29,4 +29,4 @@ This product is officially licensed under a MIT license, for more info read [lic
 
 &nbsp;
 
-**All rights reserved**
+**&copy; 2022 - All rights reserved**
