@@ -9,5 +9,3 @@ function loaded() {
   document.getElementsByTagName("body")[0].style.display = "inline";
   
 }
-
-//Currently no rights reserved
