@@ -1,5 +1,6 @@
 # Drooler - https://drooler.tk
 
+## [OLD, NEW VERSIO HERE: https://github.com/bijenmanlol/drooler]
 
 ### Desc:
 
